@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\C#\\PRuebamajsndsa\\prueba-definitiva-\\prueba-definitiva-.csproj": {}
+    "C:\\Users\\Andy\\OneDrive\\botella3\\prueba-definitiva-\\prueba-definitiva-.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\C#\\PRuebamajsndsa\\prueba-definitiva-\\prueba-definitiva-.csproj": {
+    "C:\\Users\\Andy\\OneDrive\\botella3\\prueba-definitiva-\\prueba-definitiva-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\C#\\PRuebamajsndsa\\prueba-definitiva-\\prueba-definitiva-.csproj",
+        "projectUniqueName": "C:\\Users\\Andy\\OneDrive\\botella3\\prueba-definitiva-\\prueba-definitiva-.csproj",
         "projectName": "prueba-definitiva-",
-        "projectPath": "D:\\Proyectos\\C#\\PRuebamajsndsa\\prueba-definitiva-\\prueba-definitiva-.csproj",
-        "packagesPath": "C:\\Users\\jhant\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\C#\\PRuebamajsndsa\\prueba-definitiva-\\obj\\",
+        "projectPath": "C:\\Users\\Andy\\OneDrive\\botella3\\prueba-definitiva-\\prueba-definitiva-.csproj",
+        "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andy\\OneDrive\\botella3\\prueba-definitiva-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jhant\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -38,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

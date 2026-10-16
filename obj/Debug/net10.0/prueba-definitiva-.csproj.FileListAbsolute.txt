@@ -1,0 +1,15 @@
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\bin\Debug\net10.0\prueba-definitiva-.exe
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\bin\Debug\net10.0\prueba-definitiva-.deps.json
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\bin\Debug\net10.0\prueba-definitiva-.runtimeconfig.json
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\bin\Debug\net10.0\prueba-definitiva-.dll
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\bin\Debug\net10.0\prueba-definitiva-.pdb
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.AssemblyInfoInputs.cache
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.AssemblyInfo.cs
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.sourcelink.json
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.dll
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\refint\prueba-definitiva-.dll
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.pdb
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\prueba-definitiva-.genruntimeconfig.cache
+C:\Users\Andy\OneDrive\botella3\prueba-definitiva-\obj\Debug\net10.0\ref\prueba-definitiva-.dll
